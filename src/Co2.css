@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+    select {
+      width: 80%; /* Adjust to a smaller percentage */
+      margin: 0 auto; /* Center it if necessary */
+    }
+  }
