@@ -8,7 +8,7 @@ function App() {
     <div className="App">
 
 
-      <Co2Clc /> <br />    <BottomLeftPopup />
+      <Co2Clc />  <BottomLeftPopup />
     </div>
   );
 }
